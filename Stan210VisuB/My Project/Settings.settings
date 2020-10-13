@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="CONFIGPATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\mts\Config\RollingMillConfig.txt</Value>
+    </Setting>
+    <Setting Name="TIMEREINSTALL" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="STOPSTATETIME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="BDCONNSTR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Host=10.10.20.23;Port=5432;Database=mtsbase;Username=mts;Password=test$ope$_1;sslmode=Prefer;Trust Server Certificate=true;</Value>
+    </Setting>
+    <Setting Name="INSERTTIME" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="TIMETOREINSTALL" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
